@@ -1,0 +1,8 @@
+{
+  "name": "es2015-module-exercise",
+  "version": "1.0.0",
+  "description": "ES2015 Module Exercise",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
